@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: space-between;
     height: 5vw;
-    width: 300px;
+    width: 20%;
     
 }
 .footer-right-img{
@@ -28,6 +28,21 @@
     font-size:larger;
     color: white;
     height: 5vw;
-    width: 300px;
+    width: 20%;
     
+}
+
+@media (max-width: 600px) {
+
+    .footer-right-img{
+        width: 20px;
+        height: 20px;
+    }
+    .footer-left{
+        font-size: 10px;
+        width: 100px;
+        height: 20px;
+        margin-bottom: 10px;
+    }
+
 }

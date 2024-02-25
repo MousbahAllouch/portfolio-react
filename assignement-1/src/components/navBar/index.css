@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: red;
+    color: white;
     
     
     width: 100%;
@@ -20,7 +20,7 @@
 
 .navbar-middle-link{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .navbar-github{
     display: flex;

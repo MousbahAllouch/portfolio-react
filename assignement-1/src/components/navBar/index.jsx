@@ -8,30 +8,7 @@ export default function NavBar() {
     <div className="navbar">
 
 
-      {/* <div>
-      <Link to="home">
-        Mousbah Allouch
-      </Link>
-      </div>
-
-
-      <div>
-        <Link to="home">
-          Home
-        </Link>
-        <Link to="projects">
-          Projects
-        </Link>
-        <Link to="about">
-          About
-        </Link>
-        <Link to="contact">
-          Contact US
-        </Link>
-      </div>
-
       
-      <div>IMAGE</div> */}
       <div className='navbar-name'>Mousbah Allouch</div>
       <div className="navbar-middle">
       <Link to="" className='navbar-middle-link'>

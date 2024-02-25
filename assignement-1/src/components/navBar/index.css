@@ -45,3 +45,15 @@
     color: black;
   }
 
+  @media (max-width: 600px) {
+    .navbar-github{
+        display:none;
+    }
+    .navbar-name{
+        display: none;
+    }
+    .navbar{
+        justify-content: center;
+    }
+  }
+

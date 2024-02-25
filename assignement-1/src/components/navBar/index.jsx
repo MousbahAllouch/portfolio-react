@@ -21,7 +21,7 @@ export default function NavBar() {
           About
         </Link>
         <Link to="contact" className='navbar-middle-link'>
-          Contact US
+          Contact
         </Link>
       </div>
       <div className="navbar-github">github</div>

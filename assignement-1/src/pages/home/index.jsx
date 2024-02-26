@@ -1,12 +1,12 @@
 import React from 'react'
-import "./style.css"
+import "./styles.css"
 
 
 export default function Home() {
   return (
-    <div className='container'>
+    <div className='container-home'>
 
-      <div className='container-left'>
+      <div className='container-left-home'>
 
         <div className='container-left-text'>
           <h4 className='container-left-text-name'>Hello I'm Mousbah</h4>
@@ -19,7 +19,7 @@ export default function Home() {
 
       </div>
 
-      <div className='container-right'>
+      <div className='container-right-home'>
         <div className='container-right-img'>
         <img src="https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg" className='profile-img' alt="alternatetext"></img>
         </div>
